@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "95817c1b-f8df-465f-9ab4-3362617467d2",
+  "revision": 9014,
+  "createdAt": "2026-09-26T05:51:44.355Z",
+  "exportedAt": "2026-09-28T16:10:54.537Z",
+  "learnerLabel": "Louis Curnal",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "Name: Business Case Recommendation\nMara has proposed a \"QA Control Review of the affected QA cell\". She elaborates that there is a need to establish who owns the ability to authorize any given command, how retired or deprecated tests remain under control, and how evidence will be preserved or stored for later decisions. She also explains what additional value this would give the business. Some of these include: Giving QA and Engineering team an easily traceable record they can use to investigate further details with, and give Operations a defensible and easier basis for requesting later work if and when it is needed. Will need to evaluate more details for decision on whether or not the plan needs to be revised or not. "
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "According to Nia, She notes that six requests took us sixty staff minutes altogether and  that only two came back with both an owner and a clear link to the original source. She also notes that these records are retrieval records for this cell—not robot downtime or lost sales. With the information that Nia has given so far, it is clear that there needs to be an improvement in the request process to streamline and help prevent situations like this from happening in the future."
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "The expected value is to give QA and Engineering s traceable record for further investigation and to give Operations a defensible basis for requesting work later. Please note that the completion of this review does not promise that production will be restored. "
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "According to W02-S03, the current workflow is as follows: QA requests a record. The relevant custodian finds it. QA and Engineering check where it came from what it means. Operations then receives a summary.  \n\nAccording to W02-S03, the deliverables are as follows: One command-ownership record, one inventory of scheduling and retirement controls and one evidence-preservation checklist. Lastly, it says to clearly record any missing evidence instead of guessing to fill the gaps.\n\n"
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "According to the W02-S03, the excluded things are as follows: Restarting or operating MR-17; changing software or schedules; deleting or changing original records; buying a replacement robot; selecting a vendor; or extending the review to other cells. "
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "According to Elias, the tools can indeed support it. He says that the read-only exports are another story and that he's requested access but not confirmed it. "
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "According to the W02-S04, the following staff need to check in:\n\nProvisional staffing: analyst 24 hours across days 1–8; \nEngineering 12 hours, no earlier than day 4; \nQA 8 hours during days 5–7; \nOperations 4 hours across days 1 and 8. \nThese hours require confirmation after authorization.\n\nAlso Elias mentions that staff already have their regular duties so their availability needs to be confirmed before being authorized. \n"
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "Mara notes that the base estimate is $180 below the $3,000 envelope and that the upper estimate is $525 above it. She also notes that the eight-day plan has two business days of headroom against the ten-day limit, if the access and staffing assumptions hold and the sponsor must address the uncertainty before commitment.\n\nShe also notes that this is an estimate, not a supplier quote or guaranteed cost. It does not include any equipment, purchase, software licenses, or overtime allowance."
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The lack of breathing room of the ten day schedule makes the schedule potentially unpredictable. This is especially apparent when the schedule has to revolve around the workers if some things throughout the operation don't go to plan. "
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "Known planning limit is $3000. \nAccording to W02-S04,  the schedules are as follows:\nProvisional staffing: analyst 24 hours across days 1–8; engineering 12 hours, no earlier than day 4; QA 8 hours\nduring days 5–7; Operations 4 hours across days 1 and 8\n\nIt also lists the proposed duration which would be 8 business days, assuming the exports arrive by day 3 and review tasks can overlap as a result. \n\nIt also lists that all learner work must remain outside the safety glass, to preserve the original records, to use read-only copies, to record any missing access and that a training recommendation does not necessarily give permission to operate equipment. "
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "One of the things that could prevent the eight day plan from working is if the exports or shipments arrive on days later than day 3. For example if a shipment arrived on day 6 the plan now goes completely out the window as you're surely going to end up with staff that have more overlap in tasks as well as the plan now taking 12-14 days potentially. Also the  risk of unpredictability on when shipments arrive will always loom over staff as the schedule has to work around staff regular hours as well. "
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "According to the W05-S05, the Proposed success criteria for the review are as follows: \nDeliver all three items listed in W02-S03.\nHave Nia and Elias review the source references, unknowns, and evidence-preservation steps.\nHave Mara record their feedback for the sponsor. \n\nA possible future target(as listed in W02-S05) is for all six requests in a comparable sample to have a complete custodian/source link. W02-S05 lists that the sponsor must agree on both the target and the method for collecting the data. "
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "I have chosen the option \"Revise\". The reason I have chosen this(at least According to W02-S05) is because there needs to be a more flexible day limit just in case things don't do go to plan. The 10 day plan is completely hinging on the fact that the shipments/exports arrive on the third day. If the shipments arrive later then the plan falls apart. There needs to be comfortable breathing room just in case things do not go to plan. The tradeoff is that the operation might seem less urgent to workers as they might perceive it as having a lot more time then they actually do. There also needs to be an increase in the planning limit as well so that just in case the workers have to work longer they are actually able to be paid. The downside is that this will cost more money in the short term. "
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Mara should be the one to make the next decision. She frequently coordinates with multiple departments and is used to dealing with situations like this. She should receive information on what operation is happening and what the progress of each operation is."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
